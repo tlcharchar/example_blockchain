@@ -292,4 +292,4 @@ def full_chain():
 Run the application on the server (ip/port)
 """
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=6001)
+    app.run(host='0.0.0.0', port=6000)
