@@ -2,7 +2,7 @@
 Blockchain example written in Python with key functionality exposed as Restful APIs
 
 $PORT -> Primary Node (eg 6000)
-$NEW_PROT -> Secondary Node (eg 6001)
+$NEW_PORT -> Secondary Node (eg 6001)
 
 1. Install the dependencies:
    Install depip install Flask requests
